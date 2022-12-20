@@ -4,10 +4,10 @@ let handler = async (m, { conn }) => {
  conn.sendFile(m.chat, 'https://saipulanuar.ga/api/bokepig?apikey=VBkM7rbU', 'asupan.mp4', 'Nih Jngn comly  ya', m)
  conn.sendFile(m.chat, sukses, 'attp.webp', '', m, false, { asSticker: true })
 }
-handler.help = ['bkp']
+handler.help = ['bokep']
 handler.tags = ['hentai']
 
-handler.command = /^(bkp)$/i
+handler.command = /^(bokep)$/i
 handler.premium = true
 handler.register = true
 handler.limit = false

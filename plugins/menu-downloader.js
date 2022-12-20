@@ -81,7 +81,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         
                       }}
 })
- let vn = `https://github.com/saipulanuar/Api-Github/raw/main/audio/script.mp3`
+ let vn = `https://github.com/FathurGans1/Api-Github/raw/main/audio/script.mp3`
   conn.sendFile(m.chat, vn, 'Fangz.Ganz', null, m, true, {
 type: 'audioMessage',
 ptt: true })

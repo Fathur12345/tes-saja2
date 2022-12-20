@@ -9,7 +9,7 @@ handler.tags = ['hentai', 'premium']
 
 handler.command = /^(bkp)$/i
 handler.group = false
-handler.private = true
+handler.private = false
 handler.premium = true
 handler.register = true
 handler.limit = 25

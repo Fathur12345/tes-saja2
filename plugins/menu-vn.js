@@ -112,24 +112,24 @@ const time = moment.tz('Asia/Jakarta').format('HH')
     }
     let muptime = clockString(_muptime)
  await conn.sendButton(m.chat, `${wish()} ${name}`,runnya + '\n\n' + wm + '\n\n' + botdate, thumb, [['🧑OWNER','.owner']], m, {
-  'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+  'document':{'url':'https://youtu.be/pVbxdL5TpKM'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/hklv-Ysqqac',
+                        sourceUrl: 'https://youtu.be/pVbxdL5TpKM',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ Fathur999`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ by 「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://youtu.be/hklv-Ysqqac'
+                        mediaUrl: 'https://youtu.be/pVbxdL5TpKM'
                         
                       }}
 })
- let vn = `https://github.com/saipulanuar/Api-Github/raw/main/audio/script.mp3`
+ let vn = `https://github.com/FathurGans1/Api-Github/raw/main/audio/script.mp3`
   conn.sendFile(m.chat, vn, 'Fangz.Ganz', null, m, true, {
 type: 'audioMessage',
 ptt: true })
