@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
+global.sig = 'https://instagram.com/fathurxyz'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/XynZzz'
 global.sgc = 'https://chat.whatsapp.com/FBeLMDyVRGOKDIxZ5ykM5M'
@@ -116,16 +116,16 @@ global.ultahowner = 'November 4 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6ab4daac226292a112540.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/b9e8c2f76d43ddf869f5a.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.giflogo2 = 'https://telegra.ph/file/b9e8c2f76d43ddf869f5a.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Fathur999* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/b9e8c2f76d43ddf869f5a.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Fathur999 ×፝֟͜×'
 global.umurowner = '18'
@@ -144,7 +144,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/b9e8c2f76d43ddf869f5a.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'YANG NGAMBIL STIKER GW'
+global.stickpack = 'YANG/nNGAMBIL/nSTIKER/nGW'
 global.stickauth = `ANAK ANJING ANAK KONTOL`
 
 global.multiplier = 38 // The higher, The harder levelup
