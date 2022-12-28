@@ -28,7 +28,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/fathurxyz'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
+global.syt = 'https://youtu.be/8dI9wt5UraQ'
 global.sgh = 'https://github.com/XynZzz'
 global.sgc = 'https://chat.whatsapp.com/FBeLMDyVRGOKDIxZ5ykM5M'
 global.swa = 'wa.me/628566732166'
@@ -41,7 +41,7 @@ global.povo = '-'
 global.pgopay = '081260431003'
 global.ppulsa = '081260431003'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/fathurxyz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '0812604310031'
@@ -109,10 +109,10 @@ global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ' | ʙʏ ${global.nameown}`
-global.author = 'Fathur999×፝֟͜×' 
+global.author = 'Elaina Botラ' 
 global.packname = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = 'Februari 12 2023'
 
 
 /*============== LOGO ==============*/
@@ -380,7 +380,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'YANG/nNGAMBIL/nSTIKER/nGW'
-global.stickauth = `ANAK ANJING ANAK KONTOL`
+global.stickauth = `ANAK/nANJING/nANAK/nKONTOL`
 
 global.multiplier = 38 // The higher, The harder levelup
 
